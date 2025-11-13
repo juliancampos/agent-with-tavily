@@ -24,4 +24,7 @@
 - renomear arquivo .env.example para .env e inserir api key
 
 ### Iniciar agente
-- python .\agent.py
+- langgraph dev
+<div>
+    <img src="./documentation/langgraph_running.png" />
+</div>
